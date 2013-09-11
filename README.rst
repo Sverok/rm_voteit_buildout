@@ -1,11 +1,5 @@
-Buildout för Sveroks "Riksmötet".
+Buildout f√∂r Sveroks "Riksm√∂tet".
 =================================
 
-Se utvecklingsmiljön för VoteIT för installationsinstruktioner.
-
-För att kunna köra behövs:
-* Python =< 2.6
-* gcc (de vanliga build-essentials paketet i Linux)
-* git
-* mercurial
-
+Observera att detta √§r en gammal version som k√∂rdes f√∂r Riksm√∂tet 2011.
+Den ligger bara h√§r som referensmaterial.
